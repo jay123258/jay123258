@@ -43,14 +43,3 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay848691&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay848691&layout=compact&theme=radical)
-
----
-
-## 💬 Quote I Live By
-
-> *"Security is not a product, but a process."* – Bruce Schneier
-
